@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
